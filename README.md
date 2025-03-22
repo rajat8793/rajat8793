@@ -1,4 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Rajat Kumar!  
+### 💻 Web Developer | 🚀 Tech Enthusiast | 🎨 UI/UX Designer  
+
+
+Welcome to my GitHub profile! Here’s what I do:  
+- 🔭 Working on web development projects.  
+- 🌱 Learning React.js and Node.js.  
+- 💬 Ask me about HTML, CSS, JavaScript, and PHP.  
+- 📫 Connect with me on [LinkedIn](https://linkedin.com/in/rajatkumar).  
+
+### 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajat8793&show_icons=true&theme=dark)
+
 
 <!--
 **rajat8793/rajat8793** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
