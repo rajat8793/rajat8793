@@ -1,10 +1,9 @@
 # 👋 Hi, I'm Rajat Kumar!  
 ### 💻 Web Developer | 🚀 Tech Enthusiast | 🎨 UI/UX Designer  
 
-
 Welcome to my GitHub profile! Here’s what I do:  
 - 🔭 Working on web development projects.  
-- 🌱 Learning React.js and Node.js.  
+- 🌱 Learning Data Structure and Algorithms.  
 - 💬 Ask me about HTML, CSS, JavaScript, and PHP.  
 - 📫 Connect with me on [LinkedIn](https://linkedin.com/in/rajatkumar).  
 
